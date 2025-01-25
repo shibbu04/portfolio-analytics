@@ -155,8 +155,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://portfolio-analytics.vercel.app](https://portfolio-analytics.vercel.app)
-- **Backend**: [https://portfolio-analytics-api.onrender.com](https://portfolio-analytics-api.onrender.com)
+- **Frontend**: [https://portfolio-analytiz.vercel.app](https://portfolio-analytiz.vercel.app)
+- **Backend**: [https://portfolio-analytics-ajiz.onrender.com/api/](https://portfolio-analytics-ajiz.onrender.com/api/)
 
 ---
 
